@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me: ebenezereuel26@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: There isnt a single letter 1-999 that has the letter A
+- ⚡ Fun fact: No number has the letter A before 1000.
 
 <!---
 EbenezerEuel/EbenezerEuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
