@@ -1,4 +1,4 @@
-Aspiring EE trying to learn and grow.
+An aspiring EE trying to learn and grow.
 
 
 <!---
